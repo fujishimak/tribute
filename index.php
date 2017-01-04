@@ -93,9 +93,14 @@
 		}
 
 		footer{
-			position: relative;
-			top: 130px;
+			position: absolute;
+			margin-top: 150px;
+			
 			background-color: black;
+			height: 30px;
+			width: 100%;
+
+			
 		}
 
 		
@@ -159,9 +164,9 @@
 				<li><a href="http://anb.org/articles/12/12-01800.html" target="_blank">Wepman, D. <em>"Nathaniel Kleitman."</em> American National Biography Online.</a></li>
 			</ul>
 		</div>
+		</div>
 
-
-	<footer>
+	<footer class="col-md-12">
 			<p>Posted by: Joshua E. Thomas | Find me on <a href="https://www.twitter.com/fujishima">Twitter</a> <em>#100DaysofCode</em>
 			</p>
 	</footer>

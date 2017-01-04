@@ -154,9 +154,9 @@
 			<p>For more information, feel free to check out the below resources:				
 			</p>
 			<ul>
-				<li><a href="https://en.wikipedia.org/wiki/Nathaniel_Kleitman"><em>"Nathaniel Kleitman."</em> Wikipedia.</a></li>
-				<li><a href="https://web.archive.org/web/20080208152529/http://www.npi.ucla.edu/sleepresearch/Kleitman/Kleitman.htm">Siegel, J.M. <em>"A Tribute to Nathaniel Kleitman."</em> The Wayback Machine.</a></li>
-				<li><a href="http://anb.org/articles/12/12-01800.html">Wepman, D. <em>"Nathaniel Kleitman."</em> American National Biography Online.</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Nathaniel_Kleitman" target="_blank"><em>"Nathaniel Kleitman."</em> Wikipedia.</a></li>
+				<li><a href="https://web.archive.org/web/20080208152529/http://www.npi.ucla.edu/sleepresearch/Kleitman/Kleitman.htm" target="_blank">Siegel, J.M. <em>"A Tribute to Nathaniel Kleitman."</em> The Wayback Machine.</a></li>
+				<li><a href="http://anb.org/articles/12/12-01800.html" target="_blank">Wepman, D. <em>"Nathaniel Kleitman."</em> American National Biography Online.</a></li>
 			</ul>
 		</div>
 
